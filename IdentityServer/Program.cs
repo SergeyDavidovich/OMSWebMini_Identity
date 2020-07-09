@@ -1,6 +1,9 @@
 ﻿// Copyright (c) Brock Allen & Dominick Baier. All rights reserved.
 // Licensed under the Apache License, Version 2.0. See LICENSE in the project root for license information.
 
+//https://identityserver4.readthedocs.io/en/latest/quickstarts/6_aspnet_identity.html
+//https://www.scottbrady91.com/Identity-Server/Getting-Started-with-IdentityServer-4
+
 
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
